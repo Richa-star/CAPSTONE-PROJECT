@@ -59,4 +59,3 @@ def preprocess(words_file = "C:\\Users\\HP\\Desktop\\ML Code\\word_data.pkl", au
     print("\nno. of Sara training emails:", len(labels_train)-sum(labels_train))
     
     return features_train_transformed, features_test_transformed, labels_train, labels_test
-© 2021 GitHub, Inc.
